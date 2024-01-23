@@ -1,2 +1,2 @@
-## [Patika](https://www.patika.dev) Bootstrap Eğitimi Ödev-3.
+## LinkedIn Clone with HTML5 & CSS3 & Bootstrap 5
 ![Project Image-1](images/project-image.jpg)
